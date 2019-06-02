@@ -1,0 +1,3 @@
+rootProject.name = 'gifterApp2'
+
+include ':app'
